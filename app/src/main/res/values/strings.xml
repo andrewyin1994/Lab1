@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">"Welcome to"</string>
+    <string name="cnum">"CSE 110"</string>
+    <string name="cname">"Software Engineering"</string>
+    <string name="year">"Spring 2016"</string>
+</resources>
